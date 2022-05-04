@@ -1,0 +1,9 @@
+.card-left {
+    width: 600px;
+    height: 200px;
+    /* White */
+    background: #FFFFFF;
+    /* shadow */
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+    border-radius: 32px;
+}

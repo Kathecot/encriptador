@@ -1,0 +1,26 @@
+.encriptar {
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    left: 24px;
+    top: 24px;
+    /* Dark blue/dark-blue-300 */
+    background: #0A3871;
+    border-radius: 24px;
+    color: white;
+}
+
+.desencriptar {
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    left: 147px;
+    top: 107px;
+    /* Light blue/light-blue-200 */
+    background: #EFF1FA;
+    color: #0A3871;
+    /* Dark blue/dark-blue-300 */
+    border: 1px solid #0A3871;
+    box-sizing: border-box;
+    border-radius: 24px;
+}

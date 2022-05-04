@@ -1,15 +1,19 @@
-.navbar-lewagon {
+.navbar-alura {
     justify-content: space-between;
     background-color: lightblue;
     background-size: cover;
     padding: 3px 0px;
-    height: 50px;
+    height: 70px;
 }
 
-.navbar-lewagon .navbar-collapse {
+.navbar-alura .navbar-collapse {
     flex-grow: 0;
 }
 
-.navbar-lewagon .navbar-brand img {
-    width: 50px;
+.navbar-alura .navbar-brand img {
+    height: 48px;
+    width: 32px;
+    left: 16px;
+    top: 24px;
+    border-radius: 0px;
 }

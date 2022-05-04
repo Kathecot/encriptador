@@ -1,14 +1,12 @@
 @import url("'https://fonts.googleapis.com/css2?family=Lora&family=Roboto");
 @import url("components/container.css");
-@import url("components/avatar.css");
 @import url("components/footer.css");
-@import url("components/banner.css");
-@import url("components/card.css");
 @import url("components/navbar.css");
+@import url("components/button.css");
+@import url("components/card.css");
 * {
     margin: 0px;
     padding: 0px;
-    background-color: #E5E5E5;
     font-family: "Inter" sans-serif;
     font-weight: 400px;
 }
