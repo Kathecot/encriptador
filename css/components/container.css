@@ -5,6 +5,7 @@
 
 .container-text {
     background-color: #E5E5E5;
+    height: 565px;
 }
 
 @media (max-width: 960px) {

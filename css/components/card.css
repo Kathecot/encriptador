@@ -15,4 +15,7 @@
 .input-text-area {
     margin-top: 10px;
     margin-left: 90px;
+    min-height: 75px;
+    outline: none;
+    resize: none;
 }
